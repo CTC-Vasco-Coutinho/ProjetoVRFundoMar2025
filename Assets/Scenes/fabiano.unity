@@ -15126,7 +15126,7 @@ MonoBehaviour:
   - {fileID: 985118517}
   indice: 0
   distance: 0
-  move: 0
+  move: 1
 --- !u!1 &2140134476
 GameObject:
   m_ObjectHideFlags: 0
