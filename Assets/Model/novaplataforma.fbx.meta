@@ -3,7 +3,162 @@ guid: a4d3f9f29e87bc44c99ee2c8e03cd6c2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ANDAIMEAZUL
+    second: {fileID: 2100000, guid: fdeac49fc8f4fc347b3cbffa7c1c8200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "BAL\xC3O"
+    second: {fileID: 2100000, guid: 9ec320ca5a8bbf044b613537b9570aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRANCO
+    second: {fileID: 2100000, guid: ac5f62ab421ccec468f8633d22eae44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banco
+    second: {fileID: 2100000, guid: ceafe49f4f160a84c9f01f2da756ea70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANO
+    second: {fileID: 2100000, guid: 79b205e9c650dcc4ba15d8eaea33429c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANO1
+    second: {fileID: 2100000, guid: 1c2a3a8bfda40bb4a94ef261a672dcb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANO2
+    second: {fileID: 2100000, guid: 2195ea592c23a804197443e1f42f8111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CANOENF
+    second: {fileID: 2100000, guid: 11fec9b26a28c3f449b3352e5fa9ddb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COBRE
+    second: {fileID: 2100000, guid: a5603134342531140beea13f1ec80f34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETO
+    second: {fileID: 2100000, guid: ea69bd252de4c1a40948c03d35fbca3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORDA
+    second: {fileID: 2100000, guid: 55e86102287745a44960d7aa4d45a308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRENTE
+    second: {fileID: 2100000, guid: 6fc2febe084c5354ba51c95671ba2e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENGRENHAGEM
+    second: {fileID: 2100000, guid: 2b7192be0f672944697ed87a480b78a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FERRO
+    second: {fileID: 2100000, guid: 76be25b391bbed14bb958bb37ac25d8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FERROCLARO
+    second: {fileID: 2100000, guid: 1dce98c95e5ae86438dfe062e1b64cc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FERRUGEM1
+    second: {fileID: 2100000, guid: 8d2eb5b5c3861bf44a35cb826dcc39b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FERRUGEM1.001
+    second: {fileID: 2100000, guid: 21d3f0b87fca1ee48aea07ac4c1f3568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOOTBALL
+    second: {fileID: 2100000, guid: e9986c066e1c1de458d9c4173b69c7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUINDASTE
+    second: {fileID: 2100000, guid: b41127d0286f833428e7439a612fda56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HELI
+    second: {fileID: 2100000, guid: 3abeaf2a7af7bf04d9f392279f27ce98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materiais
+    second: {fileID: 2100000, guid: fd765db6340e5db4bacd52ea3d41d2cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 0a2317ebebbbd09478b295609e793246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 03526129d0db88b4baa3fb693b994988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 060ca51fc19654847a8ef877db7a41f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PORTA
+    second: {fileID: 2100000, guid: cca311f4095f12c41893bc717689eca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RECIPIENTES
+    second: {fileID: 2100000, guid: d65ded928cea421469aa511a84e0e96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RODA
+    second: {fileID: 2100000, guid: 19cc72e9eb135424889f59a913223e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROXO
+    second: {fileID: 2100000, guid: 9ca5059ce7f602b45acd51cfb0627fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SUBMARINOTEST
+    second: {fileID: 2100000, guid: 74867433f31d1014e98706c40174b186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VIDRO
+    second: {fileID: 2100000, guid: 8b8019ba6b1075443b55300815a842de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hELICE
+    second: {fileID: 2100000, guid: e385b9da00df6dc46a2fa740ffa5aa20, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -7,6 +7,7 @@ public class Walk_Away : MonoBehaviour
     public int indice;
     public float distance;
     public bool move;
+    public float speed;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,7 +20,7 @@ public class Walk_Away : MonoBehaviour
     {
         if (move)
         {
-            transform.position = Vector3.MoveTowards(transform.position, locais[indice].transform.position, 0.01f);
+            transform.position = Vector3.MoveTowards(transform.position, locais[indice].transform.position, speed);
             distance = Vector3.Distance(transform.position, locais[indice].transform.position);
             if (distance < 2)
             {
