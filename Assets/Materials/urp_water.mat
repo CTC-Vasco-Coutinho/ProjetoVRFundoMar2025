@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: urp_water
-  m_Shader: {fileID: 4800000, guid: 66bd8cc63c431be49857c87839fc1e0f, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 860f0e8f9f5379149b76acb54cef7235, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -90,7 +90,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_1E64D73: 0
+    - Vector1_1F362672: 2.91
+    - Vector1_3EB94769: 0.7
+    - Vector1_7412AF8D: 0.2
+    - Vector1_7AC8BAD: 0.722
+    - Vector1_921AC543: 0.08
+    - Vector1_9C9A14CF: 18
+    - Vector1_F6B82B81: 1.5
     - _AddPrecomputedVelocity: 0
+    - _AffectDeformation: 1
+    - _AffectFoam: 1
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
@@ -112,6 +122,7 @@ Material:
     - _NormalStrength: 1.23
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _ReflectionStrength: 0.023
@@ -127,6 +138,9 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_DA6E02B8: {r: 0.17501777, g: 0.44815552, b: 0.53773576, a: 1}
+    - Color_E6BCE01B: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
+    - Vector4_C5F4876B: {r: 5, g: 3, b: -2, a: 2}
     - _BaseColor: {r: 0.130162, g: 0.44395843, b: 0.7075472, a: 0.98039216}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
