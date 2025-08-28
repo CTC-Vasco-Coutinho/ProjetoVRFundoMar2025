@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
-    path: Assets/Scenes/cena_saulo_teste.unity
+    path: Assets/Scenes/cena_principal.unity
     guid: e984274c732d1854abbcbf7984f29998
   - enabled: 1
     path: Assets/Scenes/Entrada.unity
